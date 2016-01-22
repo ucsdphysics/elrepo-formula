@@ -1,0 +1,10 @@
+elrepo:
+  # URL to the ELRepo RPM to install
+  rpm: default varies with OS; see elrepo/init.sls
+
+  # URL to the ELRepo GPG key
+  pubkey: default varies with OS; see elrepo/init.sls
+  pubkey_hash: default varies with OS; see elrepo/init.sls
+
+  # Disable repo so requires the --enablerepo flag to use
+  disabled: false

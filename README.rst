@@ -23,4 +23,4 @@ Credit
 ================
 
 This is pretty much the `SaltStack epel-formula 
-<https://github.com/saltstack-formulas/epel-formula>`_, except with elrepo swapped for epel.
+<https://github.com/saltstack-formulas/epel-formula>`_, except with elrepo replacing epel.
